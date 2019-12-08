@@ -1,4 +1,4 @@
-package com.example.part1_material_app_widget
+package com.example.material_design
 
 import androidx.annotation.NonNull;
 import io.flutter.embedding.android.FlutterActivity
